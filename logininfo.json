@@ -1,10 +1,10 @@
 [
-    {
-    "email": "kkk@example.com",
-    "password": "passwordkkk",
+  {
+    "email": "doonge@example.com",
+    "password": "password123",
   },
   {
-    "email": "aaa@example.com",
-    "password": "passwordaaa",
+    "email": "bob@example.com",
+    "password": "password456"
   }
 ]
