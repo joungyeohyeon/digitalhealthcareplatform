@@ -1,4 +1,5 @@
-{
+[
+    {
     "email": "kkk@example.com",
     "password": "passwordkkk",
   },
@@ -6,3 +7,4 @@
     "email": "aaa@example.com",
     "password": "passwordaaa",
   }
+]
