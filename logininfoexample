@@ -1,0 +1,38 @@
+[
+  {
+    "email": "doonge@example.com",
+    "password": "password123",
+    "name": "Doongee",
+    "profile": "https://thumbnail9.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2020/07/14/13/7/8eae1e5f-bb55-4d4d-8d1b-2ab009b58a4b.jpg"
+  },
+  {
+    "email": "bob@example.com",
+    "password": "password456",
+    "name": "Sponge Bob",
+    "profile": "https://prodigits.co.uk/thumbs/wallpapers/p2ls/drawings/40/ab4c2c8a12289035.jpg"
+  },
+  {
+    "email": "charlie@example.com",
+    "password": "password789",
+    "name": "Charlie",
+    "profile": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmQnnG7r2iHijLThDbFePSufLaRIxNFlewAQ&s"
+  },
+  {
+    "email": "delta@example.com",
+    "password": "password012",
+    "name": "SpaceA",
+    "profile": "https://www.nasaspaceflight.com/wp-content/uploads/2023/08/NSF-2023-08-31-17-53-58-082-scaled.jpg"
+  },
+  {
+    "email": "nobel@example.com",
+    "password": "password345",
+    "name": "Nobel",
+    "profile": "https://img.jagranjosh.com/images/2024/October/10102024/nobel-prize-in-literature-2024-.webp"
+  },
+  {
+    "email": "pknu@example.com",
+    "password": "password678",
+    "name": "PKNU",
+    "profile": "https://www.pknu.ac.kr/upload/raonkeditordata/2022/01/28/20220128_130921259_60942.png"
+  }
+]
