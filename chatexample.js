@@ -16,7 +16,7 @@ const App = () => {
 
   // Fetch JSON data from GitHub on load
   useEffect(() => {
-    fetch('https://raw.githubusercontent.com/Drkisong/Digital.Healthcare.Platform.PKNU/refs/heads/main/server_data/healthdata_vital.JSON')
+    fetch('https://raw.githubusercontent.com/joungyeohyeon/digitalhealthcareplatform/refs/heads/main/healthvital.json')
       .then((response) => response.json())
       .then((json) => setData(json))
       .catch((error) => console.error(error));
