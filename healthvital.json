@@ -12,7 +12,7 @@
           {"systolic": 118, "diastolic": 79},
           {"systolic": 122, "diastolic": 82}
         ],
-        "temperature": [36.6, 35.8, 37.0]
+        "temperature": [36.6, 35.8, 37.8]
       }
     },
     {
@@ -27,7 +27,7 @@
           {"systolic": 117, "diastolic": 78},
           {"systolic": 116, "diastolic": 76}
         ],
-        "temperature": [36.5, 37.7, 36.9]
+        "temperature": [36.0, 37.7, 36.9]
       }
     }
   ]
