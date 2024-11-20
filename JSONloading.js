@@ -7,7 +7,7 @@ const App = () => {
   const [data, setData] = useState([]);
 
   useEffect(() => {
-    fetch('https://raw.githubusercontent.com/Drkisong/Digital.Healthcare.Platform.PKNU/refs/heads/main/server_data/sampledata.json')
+    fetch('https://raw.githubusercontent.com/joungyeohyeon/digitalhealthcareplatform/refs/heads/main/serverdata.json')
     .then((response) => response.json())
     .then((json) => setData(json))
     .catch((error) => console.error(error));   
